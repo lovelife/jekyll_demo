@@ -1,11 +1,11 @@
 ---
 　　layout: default
-　　title: 我的Blog
+　　title: My Blog
 ---
 
 　　<h2>{{ page.title }}</h2>
 
-　　<p>最新文章</p>
+　　<p>new pages </p>
 
 　　<ul>
 
